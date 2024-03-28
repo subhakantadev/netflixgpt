@@ -26,6 +26,9 @@ const Login = () => {
             className="p-4 my-4 w-full bg-gray-600"
           />
           <button className="my-2 py-2 w-full bg-red-500">SignIN</button>
+          <button className="my-2 py-2 w-full text-white font-semibold text-xl">
+            Forgot Passowrd
+          </button>
         </form>
       </div>
     </div>
